@@ -1,4 +1,4 @@
-# About 808Date
+# About 808Date🔥
 808Date is an dating app for people in love with rap music. People will be able to fill in their (favorite) bars and match on their bars and rap music interests.
 
 ## Functionalities
