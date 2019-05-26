@@ -19,12 +19,12 @@ Cloning the project `git clone https://github.com/Fr3akyBeakyLike/Project-Tech.g
 installing node modules `npm install`
 
 ## This App is build using
-HTML
-CSS
-Javascript
-NodeJS
-MongoDB
-Express
+* HTML
+* CSS
+* Javascript
+* NodeJS
+* MongoDB
+* Express
 
 ## Author(s)
 Mike van den Hoek
